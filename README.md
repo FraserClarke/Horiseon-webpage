@@ -10,7 +10,7 @@ accessability and search engine optimisation.
 
 The website contains:
 * functioning images with alt attributes.
-* functioning links to parts of the page *rom the top nav bar.
+* functioning links to parts of the page from the top nav bar.
 * Semantic css and html structure
 * floats
 * styling
