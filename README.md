@@ -23,17 +23,16 @@ The website contains:
 
 ## Screenshot
 
-![Screenshot](\assets\images\screenshot.png.png)
-Format: ![Screenshot](url)
+![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
+Format: ![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
 
 ```md
-![Screenshot](\assets\images\screenshot.png.png)
+![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
 
 
 ```
 
-![GitHub Logo](\assets\images\screenshot.png)
-Format: ![Screenshot](url)
+
 
 
 ## Credit
