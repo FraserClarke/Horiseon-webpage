@@ -24,15 +24,6 @@ The website contains:
 ## Screenshot
 
 ![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
-Format: ![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
-
-```md
-![Screenshot](https://raw.githubusercontent.com/FraserClarke/Horiseon-webpage/main/assets/images/screenshot.png)
-
-
-```
-
-
 
 
 ## Credit
